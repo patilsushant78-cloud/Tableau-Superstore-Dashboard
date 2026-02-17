@@ -21,7 +21,6 @@ The objective was to identify revenue trends, profit drivers, and loss-making se
 - West region contributed highest sales.
 
 ## 📂 Project Files
-- Superstore_Dashboard.twbx
 - Dataset
 - Dashboard screenshot
 - Insights documentation
