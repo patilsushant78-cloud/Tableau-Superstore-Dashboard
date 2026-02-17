@@ -26,5 +26,3 @@ The objective was to identify revenue trends, profit drivers, and loss-making se
 - Dashboard screenshot
 - Insights documentation
 
-## 🔗 Tableau Public Link
-(Add link here if published)
