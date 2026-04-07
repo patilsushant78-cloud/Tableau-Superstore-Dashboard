@@ -25,3 +25,7 @@ The objective was to identify revenue trends, profit drivers, and loss-making se
 - Dashboard screenshot
 - Insights documentation
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+
